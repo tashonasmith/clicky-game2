@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Regina",
+        "image": "https://vignette.wikia.nocookie.net/meangirls/images/4/42/018.jpg/revision/latest?cb=20190429020224"
+    },
+    {
+        "id": 2,
+        "name": "Cady",
+        "image": "https://i.pinimg.com/originals/51/7e/99/517e99a912d6bc56383c6486c547c6d7.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Karen",
+        "image": "https://data.whicdn.com/images/279249139/original.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Gretchen",
+        "image": "https://imgix.bustle.com/elite-daily/2016/08/07212103/Gretchen-Wieners-mean-girls.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format%2Ccompress&cs=srgb&q=70"
+    },
+    {
+        "id": 5,
+        "name": "Damian",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mv5bngniywnkzmutodg1ni00zjy0lthjzjutnzkwnwfiztjkmwnixkeyxkfqcgdeqxvyntmwota0otaat-v1-1556651595.jpg?crop=0.502xw:1.00xh;0.277xw,0&resize=640:*"
+    },
+    {
+        "id": 6,
+        "name": "Janis",
+        "image": "https://img.sparknotes.com/content/sparklife/sparktalk/janiceianmpmain_LargeWide.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Kevin",
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2016/07/nintchdbpict000249514418.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Aaron",
+        "image": "https://imgix.bustle.com/elite-daily/2016/09/07215054/aaron-samuels.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format%2Ccompress&cs=srgb&q=70"
+    },
+    {
+        "id": 9,
+        "name": "Ms. Norbury",
+        "image": "https://authenticteachingcharacters.files.wordpress.com/2015/11/tina-fey-mean-girls.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Principal",
+        "image": "https://img.cinemablend.com/filter:scale/quill/9/a/2/e/4/5/9a2e45c2ddda0ce853d999b662ecb490ebcad917.jpg?mw=600"
+    },
+    {
+        "id": 11,
+        "name": "Jason",
+        "image": "https://s30886.pcdn.co/wp-content/uploads/2019/02/jason-from-mean-girls.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Weird Girl",
+        "image": "https://vignette3.wikia.nocookie.net/meangirls/images/a/a2/Byrd.png/revision/latest?cb=20140903174759"
+    }
+]

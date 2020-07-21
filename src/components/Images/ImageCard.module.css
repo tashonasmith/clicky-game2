@@ -1,0 +1,11 @@
+.photo {
+    max-width: 175px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.card {
+  display: flex;
+}
+
+    
