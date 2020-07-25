@@ -1,7 +1,11 @@
 .photo {
-    max-width: 175px;
-    margin: 10px;
-    border-radius: 30px;
+  width: 180px;
+  height: 180px;
+  margin: 10px;
+  border-radius: 16px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .card {
